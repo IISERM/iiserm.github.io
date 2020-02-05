@@ -1,0 +1,6 @@
+title: Unofficial IISER-M
+name: Unofficial IISER-M Website
+description: Website for IISER-M Students
+theme: jekyll-theme-slate
+github:
+  is_project_page: true
